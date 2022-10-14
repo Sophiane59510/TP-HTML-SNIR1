@@ -1,0 +1,61 @@
+.color {color: #5C2319}
+.color2 {color: white}
+.underline {text-decoration: underline;}
+
+.fondgris1 {
+    background-position : center;
+    margin : auto;
+    width : 42%;
+    background-color: darkgray;
+}
+
+.block2php {
+    background-position: center;
+    text-align: center;
+    margin : auto;
+    width : 42%;
+    color: white;
+    background-color: #694C46;
+}
+
+
+.textgauche{
+
+    
+    
+}
+.textedroite {
+    position: relative;
+    height: 70%; width: 70%;
+    float : left;
+}
+.fondgris2 {
+    background-position : center;
+    margin : auto;
+    width : 42%;
+    background-color: #D3D3D3;
+}
+.block4 {
+    float : left ;
+    height: 100px; width: 100px;
+    background-color: #694C46
+}
+.blockmarron {
+    background-position: center;  
+    margin : auto;
+    width : 42%;
+    color: white;
+    background-color: #694C46;
+}
+.partenaire{
+    float : left;
+    width: 20ù;
+}
+.motclés{
+    float : left;
+    width: auto;
+}
+.copyright{
+    float : center;
+    width: auto;
+}
