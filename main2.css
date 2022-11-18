@@ -2,50 +2,66 @@
 .color2 {color: white}
 .underline {text-decoration: underline;}
 
+body{
+    margin-right: 450px;
+    margin-left: 450px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    height: auto;
+    width: 1000px;
+    position: relative;
+    background-color: teal;
+
+}
 .fondgris1 {
-    background-position : center;
-    margin : auto;
-    width : 42%;
-    background-color: darkgray;
+    text-align: center;
+    width: auto;
+    margin-bottom: 10px;
+    height: 200px;  
+    background-color: darkgrey;
+}
+
+.fondblanc
+{
+    background-color: #D3D3D3;
 }
 
 .block2php {
     background-position: center;
     text-align: center;
-    margin : auto;
-    width : 42%;
+    padding: 7px;
+    word-spacing: 30px;
     color: white;
     background-color: #694C46;
 }
 
-
 .textgauche{
-
-    
-    
+    border-right: black dotted 2px;
+    width: 225px;
+    height: 600px;
 }
 .textedroite {
-    position: relative;
-    height: 70%; width: 70%;
-    float : left;
-}
-.fondgris2 {
-    background-position : center;
-    margin : auto;
-    width : 42%;
-    background-color: #D3D3D3;
+    height: auto;
+    width: 700px;
+    left: 260px;
+    text-align: justify;
+    text-size-adjust: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    position: absolute;
 }
 .block4 {
     float : left ;
     height: 100px; width: 100px;
     background-color: #694C46
 }
-.blockmarron {
-    background-position: center;  
-    margin : auto;
-    width : 42%;
-    color: white;
+.blockmarron { 
     background-color: #694C46;
+    padding-left: 10px;
+    width : auto;
+    color: white;
+    height: 150px;
 }
 .partenaire{
     float : left;
@@ -59,3 +75,4 @@
     float : center;
     width: auto;
 }
+
